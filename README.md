@@ -1,0 +1,2 @@
+# znsPractice
+Practice code Javascript
